@@ -1,0 +1,47 @@
+﻿<div class="quiz-box">
+
+    <h1>HOÀN THÀNH QUIZ 🎉</h1>
+
+    <h2>
+        Điểm của bạn:
+        @ViewBag.Score
+    </h2>
+
+    <br />
+
+    <!-- Nút troll chạy -->
+    <button id="runawayBtn">
+        Bấm để nhận thưởng 
+    </button>
+
+    <br /><br />
+
+    <!-- Nút làm lại -->
+    <a asp-action="Index" asp-route-id="1">
+
+        <button>
+            Làm lại 🔥
+        </button>
+
+    </a>
+
+</div>
+
+<script>
+
+    const btn = document.getElementById("runawayBtn");
+
+    btn.addEventListener("mouseover", () => {
+
+        // random vị trí
+        const x = Math.random() * 600;
+        const y = Math.random() * 400;
+
+        btn.style.position = "absolute";
+
+        btn.style.left = x + "px";
+
+        btn.style.top = y + "px";
+    });
+
+</script>

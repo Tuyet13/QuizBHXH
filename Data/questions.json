@@ -1,0 +1,839 @@
+﻿[
+  {
+    "Id": 1,
+    "Text": "Bảo hiểm xã hội bắt buộc bao gồm các chế độ:",
+    "A": "Ốm đau, thai sản, tai nạn lao động, bệnh nghề nghiệp theo quy định của Luật An toàn, vệ sinh lao động",
+    "B": "Hưu trí, tử tuất",
+    "C": "Ốm đau, thai sản, hưu trí, tử tuất, tai nạn lao động, bệnh nghề nghiệp theo quy định của Luật An toàn, vệ sinh lao động",
+    "D": "Ốm đau, thai sản",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 2,
+    "Text": "Tiền lương tháng đóng BHXH đối với người lao động thuộc đối tượng thực hiện chế độ tiền lương do Nhà nước quy định:",
+    "A": "Tiền lương theo ngạch, bậc, cấp bậc quân hàm và các khoản phụ cấp độc hại, phụ cấp chức vụ, phụ cấp thâm niên vượt khung, hệ số chênh lệch bảo lưu lương (nếu có)",
+    "B": "Tiền lương theo ngạch, bậc, cấp bậc quân hàm và các khoản phụ cấp chức vụ, phụ cấp thâm niên vượt khung, phụ cấp thâm niên nghề, hệ số chênh lệch bảo lưu lương (nếu có)",
+    "C": "Tiền lương theo ngạch, bậc, cấp bậc quân hàm và các khoản phụ cấp thâm niên nghề, phụ cấp thu hút, phụ cấp chức vụ, hệ số chênh lệch bảo lưu lương (nếu có)",
+    "D": "Tiền lương theo ngạch, bậc, cấp bậc quân hàm và các khoản phụ cấp chức vụ, phụ cấp thâm niên nghề, phụ cấp chuyên cần, hệ số chênh lệch bảo lưu lương (nếu có)",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 3,
+    "Text": "Đối với người lao động đóng bảo hiểm xã hội theo chế độ tiền lương do người sử dụng lao động quyết định thì tiền lương tháng đóng bảo hiểm xã hội hiện nay là:",
+    "A": "Mức lương và phụ cấp lương được thỏa thuận trả thường xuyên, ổn định trong mỗi kỳ trả lương",
+    "B": "Mức lương theo công việc hoặc chức danh và các khoản bổ sung khác",
+    "C": "Mức lương theo công việc hoặc chức danh",
+    "D": "Mức lương theo công việc hoặc chức danh, phụ cấp lương và các khoản bổ sung khác được thỏa thuận trả thường xuyên, ổn định trong mỗi kỳ trả lương",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 4,
+    "Text": "Người sử dụng lao động hằng tháng đóng bảo hiểm xã hội bắt buộc tính trên tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc thuộc đối tượng theo quy định vào quỹ ốm đau- thai sản là:",
+    "A": "Hằng tháng đóng 3%",
+    "B": "Hằng tháng đóng 1%",
+    "C": "Hằng tháng đóng 8%",
+    "D": "Hằng tháng đóng 10,5%",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 5,
+    "Text": "Tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc:",
+    "A": "Thấp nhất bằng mức tiền lương tối thiều vùng và cao nhất bằng 20 lần mức tham chiếu tại thời điểm đóng.",
+    "B": "Thấp nhất bằng mức tham chiếu và cao nhất bằng 20 lần tiền lương tối thiểu vùng.",
+    "C": "Thấp nhất bằng mức tham chiếu và cao nhất bằng 20 lần mức tham chiếu tại thời điểm đóng.",
+    "D": "Thấp nhất bằng mức tiền lương tối thiều vùng và cao nhất bằng 20 lần tiền lương tối thiểu vùng",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 6,
+    "Text": "Theo Luật BHXH năm 2024 đối tượng nào sau đây được hưởng chế độ ốm đau?",
+    "A": "Dân quân thường trực",
+    "B": "Người đi làm việc ở nước ngoài theo hợp đồng quy định tại Luật người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.",
+    "C": "Hạ sĩ quan, học viên quân đội, công an , cơ yếu đang theo học được hưởng sinh hoạt phí.",
+    "D": "Người hoạt động không chuyên trách ở cấp xã, ở thôn, tổ dân phố.",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 7,
+    "Text": "Theo Luật BHXH năm 2024 đối tượng nào sau đây KHÔNG thuộc đối tượng áp dụng chế độ ốm đau?",
+    "A": "Hạ sĩ quan, học viên quân đội, công an, cơ yếu đang theo học được hưởng sinh hoạt phí.",
+    "B": "Công nhân và viên chức quốc phòng, công nhân công an, người làm công tác khác trong tổ chức cơ yếu.",
+    "C": "Chủ hộ kinh doanh của hộ kinh doanh có đăng ký kinh doanh tham gia theo quy định của Chính phủ.",
+    "D": "Người hoạt động không chuyên trách ở cấp xã, ở thôn, tổ dân phố.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 8,
+    "Text": "Người lao động có tham gia bảo hiểm xã hội KHÔNG được hưởng chế độ ôm đau khi:",
+    "A": "Điều trị khi mắc bệnh mà không phải bệnh nghề nghiệp",
+    "B": "Trong thời gian điều trị ốm đau trùng với thời gian đang nghỉ việc hưởng chế độ thai sản",
+    "C": "Chăm sóc con dưới 07 tuổi bị ốm đau",
+    "D": "Điều trị khi bị tai nạn mà không phải là tai nạn lao động",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 9,
+    "Text": "Theo quy định Luật BHXH năm 2024 thì người lao động có tham gia bảo hiểm xã hội được hưởng chế độ ốm đau khi:",
+    "A": "Phải nghỉ việc để chăm sóc con dưới 01 tuổi bị ốm đau và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
+    "B": "Phải nghỉ việc để chăm sóc con dưới 07 tuổi bị ốm đau và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
+    "C": "Phải nghỉ việc để chăm sóc con dưới 05 tuổi bị ốm đau và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
+    "D": "Phải nghỉ việc để chăm sóc con dưới 03 tuổi bị ốm đau và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 10,
+    "Text": "Thời gian nghỉ tối đa hưởng chế độ ốm đau (không phải là bệnh thuộc danh mục bệnh cần chữa trị dài ngày) trong năm đối với người lao động có dưới 15 năm đóng bảo hiểm xã hội và trong điều kiện làm việc bình thường là:",
+    "A": "Nghỉ 30 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "B": "Nghỉ 20 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "C": "Nghỉ 10 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "D": "Nghỉ 40 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 11,
+    "Text": "Thời gian tính nghỉ hưởng chế độ ốm đau trong một năm là:",
+    "A": "Từ ngày ký hợp đồng đến hết ngày 31 tháng 12 dương lịch",
+    "B": "Từ ngày 01 tháng 01 đến ngày 31 tháng 12 âm lịch",
+    "C": "Từ ngày 01 tháng 01 đến ngày 31 tháng 12 dương lịch",
+    "D": "Không quy định thời gian",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 12,
+    "Text": "Thời gian nghỉ tối đa hưởng chế độ ốm đau (không phải là bệnh thuộc danh mục bệnh cần chữa trị dài ngày) trong năm đối với người lao động có từ 15 năm đến dưới 30 năm đóng bảo hiểm xã hội và làm nghề hoặc công việc nặng nhọc, độc hại, nguy hiểm theo quy định:",
+    "A": "Nghỉ 40 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "B": "Nghỉ 60 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "C": "Nghỉ 70 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "D": "Nghỉ 50 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 13,
+    "Text": "Thời gian nghỉ tối đa hưởng chế độ ốm đau (không phải là bệnh thuộc danh mục bệnh cần chữa trị dài ngày) trong năm đối với người lao động có từ 30 năm đóng bảo hiểm xã hội trở lên và làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định:",
+    "A": "Nghỉ 50 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "B": "Nghỉ 60 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "C": "Nghỉ 70 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "D": "Nghỉ 80 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 14,
+    "Text": "Căn cứ xác định thời gian hưởng trợ cấp BHXH khi con bị ốm là:",
+    "A": "Thời gian tham gia BHXH.",
+    "B": "Điều kiện làm việc",
+    "C": "Giới tính của con.",
+    "D": "Độ tuổi của con.",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 15,
+    "Text": "Thời gian nghỉ hưởng chế độ ốm đau tối đa khi con từ đủ 3 tuổi đến dưới 7 tuổi trong một năm cho mỗi con:",
+    "A": "10 ngày làm việc",
+    "B": "15 ngày làm việc",
+    "C": "20 ngày làm việc",
+    "D": "25 ngày làm việc",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 16,
+    "Text": "Thời gian nghỉ ốm đau (không phải do mắc bệnh thuộc danh mục bệnh cần trị dài ngày) không bao gồm:",
+    "A": "Ngày nghỉ hàng tuần, ngày nghỉ tết",
+    "B": "Ngày nghỉ lễ, nghỉ tết",
+    "C": "Nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần",
+    "D": "Nghỉ Tết, ngày nghỉ hằng tuần",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 17,
+    "Text": "Theo Luật Bảo hiểm xã hội năm 2024, người lao động nghỉ việc do mắc bệnh thuộc Danh mục bệnh cần chữa trị dài ngày do Bộ Y tế ban hành thì được hưởng chế độ ốm đau như sau:",
+    "A": "Hết thời hạn hưởng chế độ ốm đau quy định mà người lao động phải nghỉ việc để tiếp tục điều trị thì được hưởng tiếp chế độ ốm đau với mức thấp hơn.",
+    "B": "Được nghỉ 180 ngày/năm tính cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "C": "Được nghỉ tối đa 06 tháng tính cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "D": "Được nghỉ tối đa 180 ngày tính cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần. Sau 180 ngày mà vẫn tiếp tục điều trị thì được hưởng tiếp chế độ ốm đau với mức thấp hơn nhưng thời gian hưởng tối đa bằng thời gian đã đóng bảo hiểm xã hội.",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 18,
+    "Text": "Thời gian hưởng chế độ ốm đau tối đa trong một năm đối với sĩ quan, quân nhân chuyên nghiệp quân đội nhân dân là:",
+    "A": "Nghỉ 30 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "B": "Nghỉ 40 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "C": "Nghỉ 60 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "D": "Căn cứ vào thời gian điều trị nội trú tại cơ sở khám bệnh, chữa bệnh và thời gian mà người lao động phải nghỉ việc theo chỉ định của người hành nghề khám bệnh, chữa bệnh thuộc cơ sở khám bệnh, chữa bệnh.",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 19,
+    "Text": "Mức hưởng nghỉ ốm đau đối với sĩ quan, quân nhân chuyên nghiệp quân đội nhân dân là:",
+    "A": "Bằng 55% mức tiền lương đóng BHXH của tháng gần nhất trước tháng nghỉ việc hưởng chế độ ốm đau.",
+    "B": "Bằng 75% mức tiền lương đóng BHXH của tháng gần nhất trước tháng nghỉ việc hưởng chế độ ốm đau.",
+    "C": "Bằng 65% mức tiền lương đóng BHXH của tháng gần nhất trước tháng nghỉ việc hưởng chế độ ốm đau.",
+    "D": "Bằng 100% mức tiền lương đóng BHXH của tháng gần nhất trước tháng nghỉ việc hưởng chế độ ốm đau.",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 20,
+    "Text": "Một người lao động có 33 năm đóng BHXH mà nghỉ ốm đau do mắc bệnh thuộc Danh mục bệnh cần chữa trị dài ngày do Bộ Y đã nghỉ hết thời gian theo quy định mà nếu tiếp tục nghỉ để điều trị thì mức hưởng là:",
+    "A": "Bằng 65% mức tiền lương đóng BHXH của tháng gần nhất trước tháng nghỉ việc hưởng chế độ ốm đau.",
+    "B": "Bằng 55% mức tiền lương đóng BHXH của tháng gần nhất trước tháng nghỉ việc hưởng chế độ ốm đau.",
+    "C": "Bằng 50% mức tiền lương đóng BHXH của tháng gần nhất trước tháng nghỉ việc hưởng chế độ ốm đau.",
+    "D": "Bằng 100% mức tiền lương đóng BHXH của tháng gần nhất trước tháng nghỉ việc hưởng chế độ ốm đau.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 21,
+    "Text": "Thời gian người lao động được nghỉ dưỡng sức, phục hồi sức khỏe sau thời gian ốm đau do mắc bệnh cần chữa trị dài ngày:",
+    "A": "Tối đa 07 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "B": "Tối đa 07 ngày bao gồm cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "C": "Được nghỉ 10 ngày bao gồm cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "D": "10 ngày không bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 22,
+    "Text": "Bà Hoa, có thời gian đóng bảo hiểm xã hội bắt buộc 10 năm, làm việc trong điều kiện bình thường; từ tháng 03/2025 đến tháng 07/2025 bà đã nghỉ việc hưởng chế độ ốm đau là 30 ngày làm việc. Tháng 10/2025, bà Hoa bị ốm đau thông thường phải nghỉ 08 ngày làm việc. Thời gian nghỉ việc 08 ngày do bị ốm đau của bà Hoa được giải quyết hưởng chế độ ốm đau là:",
+    "A": "05 ngày.",
+    "B": "Không được hưởng trợ cấp ốm đau.",
+    "C": "10 ngày.",
+    "D": "08 ngày.",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 23,
+    "Text": "Ông Nam, có thời gian đóng BHXH bắt buộc 30 năm, làm việc trong điều kiện nặng nhọc, độc hại; từ tháng 01/2025 đến tháng 08/2025 ông đã nghỉ việc hưởng chế độ ốm đau là 50 ngày. Tháng 11/2021, ông Nam bị ốm đau phải nghỉ 12 ngày làm việc. Thời gian nghỉ việc 12 ngày do bị ốm đau của ông Tuấn được giải quyết hưởng chế độ ốm đau là:",
+    "A": "10 ngày.",
+    "B": "11 ngày.",
+    "C": "12 ngày.",
+    "D": "Không được hưởng trợ cấp ốm đau.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 24,
+    "Text": "Chị Hà đang tham gia BHXH bắt buộc, phải nghỉ việc chăm sóc 02 con dưới 7 tuổi bị ốm đau với thời gian như sau: con thứ nhất bị ốm từ ngày 15/9/2025 đến ngày 18/9/2025 (ngày 15/9/2025 là ngày thứ Hai), con thứ hai bị ốm từ ngày 19/9/2025 đến ngày 24/9/2025. Ngày nghỉ hàng tuần của Chị Hà là ngày Chủ nhật. Thời gian hưởng chế độ khi con ốm đau của Chị Hà được tính là:",
+    "A": "11 ngày.",
+    "B": "09 ngày.",
+    "C": "08 ngày.",
+    "D": "10 ngày.",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 25,
+    "Text": "Hai vợ chồng anh Dũng đều tham gia BHXH bắt buộc, cùng nghỉ việc chăm sóc con 6 tuổi bị ốm phải nằm viện điều trị bệnh từ ngày 12/10/2025 đến ngày 16/10/2025 (ngày 12/10/2025 là ngày thứ Sáu). Ngày nghỉ hàng tuần của vợ chồng anh Dũng là ngày Chủ nhật. Thời gian hưởng chế độ khi con ốm đau của vợ chồng anh Dũng được tính như sau:",
+    "A": "Cả hai vợ chồng anh Dũng đều được giải quyết hưởng chế độ khi con ốm đau với thời gian hưởng trợ cấp của mỗi người là 04 ngày.",
+    "B": "Cả hai vợ chồng anh Dũng đều được giải quyết hưởng chế độ khi con ốm đau với thời gian hưởng trợ cấp của mỗi người là 05 ngày.",
+    "C": "Chỉ chồng hoặc vợ được giải quyết hưởng chế độ khi con ốm đau với thời gian là 04 ngày.",
+    "D": "Chỉ chồng hoặc vợ được giải quyết hưởng chế độ khi con ốm đau với thời gian là 05 ngày.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 26,
+    "Text": "Anh Hùng được tuyển dụng vào làm việc tại một doanh nghiệp đóng tại địa bàn Hà Nội từ ngày 01/02/2025, được cơ quan đăng ký tham gia BHXH với tiền lương tháng làm căn cứ đóng BHXH là 8 triệu đồng. Ngày 12/10/2025 anh Hùng bị tai nạn rủi ro phải nghỉ việc để điều trị đến hết tháng 10/2025. Trường hợp anh Hùng được giải quyết hưởng chế độ ốm đau như sau:",
+    "A": "Anh Hùng được giải quyết hưởng chế độ ốm đau, mức hưởng chế độ ốm đau được tính trên mức tiền lương tháng là 8 triệu đồng.",
+    "B": "Anh Hùng được giải quyết hưởng chế độ ốm đau, mức hưởng chế độ ốm đau được tính trên mức tham chiếu (tiền lương cơ sở).",
+    "C": "Anh Hùng được giải quyết hưởng chế độ ốm đau, mức hưởng chế độ ốm đau được tính trên mức tiền lương tối thiểu vùng nơi làm việc.",
+    "D": "Anh Hùng không được giải quyết hưởng chế độ ốm đau.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 27,
+    "Text": "Chị Nga làm việc tại cơ quan nhà nước có đóng BHXH được 20 năm, làm việc tại nơi có điều kiện kinh tế-xã hội đặc biệt khó khăn với mức lương tháng đang đóng BHXH của chị là 9,000,000 đồng. Chị mắc bệnh thuộc danh mục bệnh cần chữa trị dài ngày do Bộ trưởng Bộ Y tế ban hành nên đã nghỉ ốm đau từ 08/9/2025 đến 30/11/2025 (trong đó có 24 ngày nghỉ hàng tuần, 60 ngày làm việc). Trợ cấp nghỉ ốm đau từ 08/9/2025 đến 30/11/2025 chị Nga hưởng là:",
+    "A": "18.000.000 đồng",
+    "B": "18.900.000 đồng",
+    "C": "13.500.000 đồng",
+    "D": "20.250.000 đồng",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 28,
+    "Text": "Đối tượng nào sau đây không thuộc diện áp dụng chế độ thai sản:",
+    "A": "Người lao động đi làm việc ở nước ngoài theo hợp đồng quy định tại Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.",
+    "B": "Người làm việc theo hợp đồng lao động có thời hạn từ đủ 01 tháng trở lên;",
+    "C": "Cán bộ, công chức, viên chức;",
+    "D": "Công nhân và viên chức quốc phòng, công nhân công an, người làm công tác khác trong tổ chức cơ yếu.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 29,
+    "Text": "Đối tượng nào sau đây thuộc diện áp dụng chế độ thai sản:",
+    "A": "Dân quân thường trực",
+    "B": "Người hoạt động không chuyên trách ở cấp xã, ở thôn, tổ dân phố;",
+    "C": "Người làm việc theo hợp đồng lao động có thời hạn từ đủ 01 tháng trở lên;",
+    "D": "Hạ sĩ quan, binh sĩ quân đội nhân dân; hạ sĩ quan, chiến sĩ nghĩa vụ công an nhân dân; học viên quân đội, công an, cơ yếu đang theo học được hưởng sinh hoạt phí;",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 30,
+    "Text": "Để đủ điều kiện hưởng chế độ thai sản thì trường hợp nào sau đây phải đóng BHXH từ đủ 06 tháng trở lên trong thời gian 12 tháng trước khi sinh con:",
+    "A": "Lao động nữ khám thai",
+    "B": "Lao động nam thực hiện biện pháp triệt sản",
+    "C": "Lao động nữ đặt vòng tránh thai",
+    "D": "Lao động nữ sinh con.",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 31,
+    "Text": "Để đủ điều kiện hưởng chế độ thai sản, người lao động nữ đi khám thai phải có thời gian đóng BHXH như sau:",
+    "A": "Từ 06 tháng trở lên",
+    "B": "Đóng BHXH đầy đủ",
+    "C": "Từ đủ 06 tháng trở lên trong thời gian 12 tháng trước khi sinh con",
+    "D": "Từ 12 tháng trở lên",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 32,
+    "Text": "Để đủ điều kiện hưởng chế độ thai sản, người lao động nhận nuôi con nuôi dưới 06 tháng tuổi phải có thời gian đóng BHXH như sau:",
+    "A": "Từ đủ 06 tháng trở lên trong thời gian 12 tháng",
+    "B": "Từ 06 tháng trở lên",
+    "C": "Từ đủ 06 tháng trở lên trong thời gian 12 tháng trước khi nhận nuôi con nuôi dưới 06 tháng tuổi.",
+    "D": "Từ 12 tháng trở lên",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 33,
+    "Text": "Thời gian nghỉ hưởng chế độ khám thai của lao động nữ không bao gồm:",
+    "A": "Ngày nghỉ lễ, nghỉ tết",
+    "B": "Ngày nghỉ lễ, nghỉ tết, nghỉ hằng tuần.",
+    "C": "Ngày nghỉ tết, nghỉ hàng tuần",
+    "D": "Ngày nghỉ hàng tuần, nghỉ lễ",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 34,
+    "Text": "Mức hưởng chế độ dưỡng sức phục hồi sức khỏe sau sinh con theo quy định hiện hành của pháp luật:",
+    "A": "30% mức lương cơ sở/ngày",
+    "B": "30% mức tham chiếu /ngày",
+    "C": "25% lương cơ sở/ngày",
+    "D": "25% mức tham chiếu /ngày.",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 35,
+    "Text": "Chị Hạnh sinh con ngày 22/10/2025 và tháng 10 có đóng BHXH, thời gian 12 tháng trước khi sinh con của chị được xác định như sau:",
+    "A": "11/2024 – 10/2025",
+    "B": "10/2024 – 09/2025",
+    "C": "09/2024 – 09/2025",
+    "D": "10/2024 – 10/2025",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 36,
+    "Text": "Ngày 10/10/2025, Anh Thắng nhận con nuôi 01 tháng tuổi, thời gian 12 tháng trước khi nhận con nuôi được xác định như sau:",
+    "A": "11/2024 – 11/2025",
+    "B": "10/2024 – 09/2025",
+    "C": "10/2024 – 11/2025",
+    "D": "11/2024 – 10/2025",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 37,
+    "Text": "Lao động nữ đóng BHXH bắt buộc đầy đủ, bị sảy thai khi thai được 02 tuần tuổi thì số ngày nghỉ hưởng theo quy định hiện hành của pháp luật là:",
+    "A": "10 ngày tính cả ngày nghỉ lễ, tết, ngày nghỉ hằng tuần.",
+    "B": "20 ngày tính cả ngày nghỉ lễ, tết, ngày nghỉ hằng tuần.",
+    "C": "40 ngày tính cả ngày nghỉ lễ, tết, ngày nghỉ hằng tuần.",
+    "D": "50 ngày tính cả ngày nghỉ lễ, tết, ngày nghỉ hằng tuần.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 38,
+    "Text": "Trợ cấp một lần khi nhận nuôi con nuôi dưới 06 tháng tuổi được tính dựa trên:",
+    "A": "Tiền lương đóng BHXH của tháng liền kề trước khi nhận con",
+    "B": "Mức tham chiếu tại tháng nhận con",
+    "C": "Lương tối thiểu vùng tại tháng nhận con",
+    "D": "Tiền lương bình quân của 06 tháng liền kề trước khi nhận con nuôi",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 39,
+    "Text": "Thời gian nghỉ hưởng chế độ khi khám thai theo quy định hiện hành của pháp luật:",
+    "A": "Tối đa 05 lần, mỗi lần không quá 02 ngày",
+    "B": "Tối đa 05 lần, mỗi lần 01 ngày",
+    "C": "05 lần",
+    "D": "05 lần, mỗi lần 01 ngày hoặc mỗi lần 02 ngày nếu xa cơ sở y tế hoặc thai có bệnh lý",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 40,
+    "Text": "Chị Hồng tham gia BHXH bắt buộc bị sẩy thai khi thai được 21 tuần tuổi thì số ngày được nghỉ việc hưởng trợ cấp thai sản theo quy định hiện hành của pháp luật là:",
+    "A": "50 ngày tính cả ngày nghỉ lễ, tết, ngày nghỉ hằng tuần.",
+    "B": "20 ngày tính cả ngày nghỉ lễ, tết, ngày nghỉ hằng tuần.",
+    "C": "40 ngày tính cả ngày nghỉ lễ, tết, ngày nghỉ hằng tuần.",
+    "D": "10 ngày tính cả ngày nghỉ lễ, tết, ngày nghỉ hằng tuần.",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 41,
+    "Text": "Chị Mỹ đi khám thai ngay tháng đầu tiên tham gia BHXH. Chị Mỹ:",
+    "A": "Không được hưởng trợ cấp khám thai do thời gian đóng BHXH dưới 06 tháng",
+    "B": "Được hưởng trợ cấp khám thai 5 ngày",
+    "C": "Được hưởng trợ cấp khám thai",
+    "D": "Không được hưởng trợ cấp khám thai do thời gian đóng BHXH dưới 03 tháng",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 42,
+    "Text": "Anh Hải tham gia BHXH được 6 năm, tháng 10/2025 anh thực hiện biện pháp triệt sản, anh Hải được nghỉ việc hưởng trợ cấp thai sản:",
+    "A": "07 ngày làm việc",
+    "B": "15 ngày",
+    "C": "07 ngày",
+    "D": "15 ngày làm việc.",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 43,
+    "Text": "Lao động nữ đủ điều kiện hưởng trợ cấp thai sản khi sinh con, nếu sinh đôi sẽ được nghỉ hưởng trợ cấp thai sản trước và sau khi sinh:",
+    "A": "7 tháng",
+    "B": "6 tháng",
+    "C": "5 tháng",
+    "D": "8 tháng",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 44,
+    "Text": "Lao động nữ đủ điều kiện hưởng trợ cấp thai sản khi sinh con, thời gian nghỉ trước sinh tối đa không quá:",
+    "A": "02 tháng",
+    "B": "03 tháng",
+    "C": "04 tháng",
+    "D": "01 tháng",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 45,
+    "Text": "Lao động nữ nghỉ sinh con và đi làm lại trước thời hạn. Thời gian đi làm trước thời hạn sẽ:",
+    "A": "Không được hưởng trợ cấp thai sản",
+    "B": "Được hưởng 50% trợ cấp thai sản",
+    "C": "Được hưởng 100% trợ cấp thai sản, tiền lương và không phải đóng BHXH trong thời gian đi làm trước thời hạn.",
+    "D": "Được hưởng 100% trợ cấp thai sản, tiền lương và phải đóng BHXH trong thời gian đi làm trước thời hạn.",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 46,
+    "Text": "Lao động nam đang đóng BHXH có vợ sinh đôi phải phẫu thuật, được nghỉ việc hưởng chế độ BHXH:",
+    "A": "14 ngày làm việc",
+    "B": "07 ngày làm việc",
+    "C": "10 ngày làm việc",
+    "D": "05 ngày làm việc",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 47,
+    "Text": "Chị Ngọc sinh con lần thứ 4, đã tham gia BHXH đủ 06 tháng trong vòng 12 tháng trước khi sinh. Trong lần sinh này chị:",
+    "A": "Không được giải quyết chế độ thai sản vì sinh con lần thứ 4",
+    "B": "Có được giải quyết chế độ thai sản",
+    "C": "Chỉ được hưởng trợ cấp một lần khi sinh",
+    "D": "Vi phạm Luật BHXH.",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 48,
+    "Text": "Người lao động đủ điều kiện hưởng trợ cấp thai sản và nhận nuôi con nuôi 04 tháng tuổi. Trong trường hợp này người lao động được:",
+    "A": "Nghỉ việc hưởng chế độ thai sản đến khi con đủ 06 tháng tuổi",
+    "B": "Nghỉ việc hưởng chế độ thai sản 06 tháng",
+    "C": "Nghỉ việc hưởng chế độ thai sản 01 tháng",
+    "D": "Nghỉ việc hưởng chế độ thai sản 03 tháng",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 49,
+    "Text": "Lao động nữ đang tham gia BHXH, mang thai hộ bị sẩy thai khi thai được 11 tuần tuổi thì được nghỉ hưởng chế độ thai sản:",
+    "A": "20 ngày tính cả ngày nghỉ lễ, tết, ngày nghỉ hằng tuần",
+    "B": "40 ngày tính cả ngày nghỉ lễ, tết, ngày nghỉ hằng tuần",
+    "C": "50 ngày tính cả ngày nghỉ lễ, tết, ngày nghỉ hằng tuần",
+    "D": "10 ngày tính cả ngày nghỉ lễ, tết, ngày nghỉ hằng tuần",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 50,
+    "Text": "Người lao động đủ điều kiện hưởng trợ cấp thai sản khi nhận nuôi con nuôi đã đủ 03 tháng tuổi nhưng không nghỉ việc. Trong trường hợp này người lao động:",
+    "A": "Không được hưởng trợ cấp thai sản",
+    "B": "Chỉ được hưởng trợ cấp một lần",
+    "C": "Được hưởng trợ cấp thai sản 02 tháng",
+    "D": "Được hưởng trợ cấp thai sản 04 tháng",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 51,
+    "Text": "Lao động nữ đủ điều kiện hưởng chế độ thai sản, mang thai hộ khi sinh con thì thời gian nghỉ việc hưởng chế độ thai sản tối thiểu:",
+    "A": "02 tháng",
+    "B": "90 ngày",
+    "C": "120 ngày",
+    "D": "60 ngày",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 52,
+    "Text": "Thời gian nghỉ việc hưởng chế độ thai sản của người mẹ nhờ mang thai hộ:",
+    "A": "06 tháng",
+    "B": "Từ thời điểm nhận con cho đến khi con đủ 06 tháng tuổi",
+    "C": "04 tháng",
+    "D": "Từ thời điểm giao đứa trẻ cho người mẹ nhờ mang thai hộ.",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 53,
+    "Text": "Chị Hà đi khám thai, đã hưởng chế độ thai sản hết thời gian quy định, nếu sức khỏe yếu, chị:",
+    "A": "Được xét nghỉ dưỡng sức, phục hồi sức khỏe tối đa 05 ngày.",
+    "B": "Được xét nghỉ dưỡng sức, phục hồi sức khỏe tối đa 07 ngày.",
+    "C": "Không được xét nghỉ dưỡng sức, phục hồi sức khỏe.",
+    "D": "Được xét nghỉ dưỡng sức, phục hồi sức khỏe tối đa 10 ngày.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 54,
+    "Text": "Chị Hạnh đóng BHXH liên tục từ tháng 01/2025 với mức lương đóng BHXH là 9,000,000đ/tháng. Tháng 12/2025 Chị Hạnh nghỉ việc đi khám thai 02 ngày làm việc, Chị Hạnh:",
+    "A": "Không được hưởng trợ cấp khám thai do chưa đóng BHXH đủ 06 tháng",
+    "B": "Được hưởng với mức trợ cấp khám thai là 375,000 đồng",
+    "C": "Được hưởng với mức trợ cấp khám thai là 562,500,000 đồng",
+    "D": "Được hưởng với mức trợ cấp khám thai là 750,000 đồng: 9000000/24 x 2 x 100%",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 55,
+    "Text": "Chị Ngọc đóng BHXH liên tục từ 01/2025. Chị bị sẩy thai (thai 15 tuần tuổi), nghỉ việc từ ngày 01/10/2025. Chị được nghỉ việc hưởng chế độ sẩy thai đến hết ngày:",
+    "A": "20/11/2025",
+    "B": "10/11/2025",
+    "C": "08/11/2025",
+    "D": "09/11/2025",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 56,
+    "Text": "Chị Ánh đóng BHXH liên tục từ 01/2025. Chị nghỉ sinh con từ ngày 25/11/2025 (chị sinh 01 con). Chị được nghỉ hưởng chế độ thai sản khi sinh con đến hết ngày:",
+    "A": "24/04/2026",
+    "B": "25/05/2026",
+    "C": "26/05/2026",
+    "D": "24/05/2026.",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 57,
+    "Text": "Chị Mai đóng BHXH liên tục từ 01/2025. Chị nghỉ sinh con từ ngày 01/11/2025 - 30/04/2026. Tiền lương bình quân tháng đóng BHXH của 06 tháng gần nhất trước nghỉ của chị là 8,000,000 đồng. Trợ cấp thai sản của chị là:",
+    "A": "40,000,000 đồng",
+    "B": "48,000,000 đồng (8,000,000 x 6)",
+    "C": "32,000,000 đồng",
+    "D": "54,000,000 đồng",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 58,
+    "Text": "Chị Oanh đóng BHXH liên tục từ 01/2025. Chị nghỉ sinh con từ ngày 10/10/2025. Diễn biến tiền lương trước nghỉ của chị như sau: Từ 01/2025 - 06/2025: Mức lương 8,000,000 đồng, Phụ cấp chức vụ 500,000 đồng. Từ tháng 07/2025 trở đi: Mức lương 8,500,000 đồng, phụ cấp chức vụ 500,000 đồng. Mức bình quân tiền lương tháng đóng BHXH của 06 tháng gần nhất trước khi sinh của chị là:",
+    "A": "8,500,000 đồng",
+    "B": "9,000,000 đồng",
+    "C": "8,750,000 đồng ([(8000+500)*3 + (8500+500)*3] / 6)",
+    "D": "8,250,000 đồng",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 59,
+    "Text": "Chị Nhung đóng BHXH từ 01/2025 theo chế độ tiền lương do người sử dụng lao động quyết định, chị sinh con ngày 20/10/2025 (sinh đôi). Trợ cấp 1 lần khi sinh của chị là (tính theo mức lương cơ sở 2,340,000đ):",
+    "A": "4,680,000 đồng",
+    "B": "7,020,000 đồng",
+    "C": "9,360,000 đồng (2 x 2 x 2,340,000đ)",
+    "D": "11,700,000 đồng",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 60,
+    "Text": "Anh Tuấn đóng BHXH liên tục từ 01/2025. Ngày 22/10/2025 anh nhận nuôi con nuôi (con nuôi sinh ngày 10/09/2025). Thời gian nghỉ việc hưởng chế độ thai sản của anh Tuấn:",
+    "A": "10/09/2025 – 10/03/2026",
+    "B": "22/10/2025 – 10/03/2026",
+    "C": "22/10/2025 – 09/03/2026",
+    "D": "10/09/2025 – 09/03/2026.",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 61,
+    "Text": "Anh Minh là thợ bảo trì, chị Nga là thợ dệt. Trong giờ làm việc chị Nga có việc riêng ra ngoài và nhờ anh Minh vào dệt thay. Không may anh bị con thoi đâm bị tai nạn. Anh được hưởng chế độ:",
+    "A": "Ốm đau",
+    "B": "Bệnh nghề nghiệp",
+    "C": "Tai nạn lao động.",
+    "D": "Không có đáp án nào đúng",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 62,
+    "Text": "Trường hợp không được xác định là tai nạn lao động là:",
+    "A": "Tai nạn trong giờ làm việc, tại nơi làm việc kể cả làm việc ngoài giờ do yêu cầu của chủ sử dụng lao động.",
+    "B": "Tai nạn ngoài nơi làm việc khi thực hiện công việc theo yêu cầu của chủ sử dụng lao động.",
+    "C": "Tai nạn trên đường đi và về từ nơi ở đến nơi làm việc trong khoảng thời gian và tuyến đường hợp lý theo yêu cầu của người sử dụng lao động.",
+    "D": "Tai nạn giao thông do dùng rượu rồi phóng nhanh, vượt ẩu.",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 63,
+    "Text": "Người lao động bị bệnh nghề nghiệp phải có thời gian làm việc trong môi trường có yếu tố độc hại tối thiểu là:",
+    "A": "10 năm",
+    "B": "15 năm.",
+    "C": "30 năm.",
+    "D": "Không có quy định.",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 64,
+    "Text": "Người lao động bị tai nạn lao động được hưởng trợ cấp tai nạn lao động một lần nếu bị suy giam khả năng lao động:",
+    "A": "Từ 5% - 20%.",
+    "B": "Từ 5% - 31%.",
+    "C": "Từ 1% - 30%.",
+    "D": "Từ 5% - 30%.",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 65,
+    "Text": "Anh Thuận bị tai nạn lao động vào tháng 11/2025 với mức suy giảm khả năng lao động 30%, thời gian đóng BHXH là 8 năm 07 tháng, hệ số lương đóng BHXH của tháng 10/2025 là 3.33. Trợ cấp tính theo mức suy giảm khả năng lao động (chưa cộng phần số năm đóng BHXH) bằng bao nhiêu lần mức lương cơ sở (Lcs)?",
+    "A": "5 lần Lcs",
+    "B": "12.5 lần Lcs",
+    "C": "17.5 lần Lcs (5 + [30 - 5] x 0.5)",
+    "D": "30 lần Lcs",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 66,
+    "Text": "Chị Hà bị tai nạn lao động tháng 10/2025 với mức suy giảm khả năng lao động 5%. Thời gian đóng BHXH là 8 năm 04 tháng, tiền lương đóng BHXH của tháng trước khi bị tai nạn là 8,000,000 đồng. Trợ cấp tai nạn lao động một lần chị Hà nhận là (theo thiết kế ngân hàng đề gốc):",
+    "A": "32,500,000 đồng.",
+    "B": "29,800,000 đồng.",
+    "C": "34,900,000 đồng.",
+    "D": "Không có đáp án nào đúng.",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 67,
+    "Text": "Mức trợ cấp một lần tính theo số năm đóng BHXH đối với người bị tai nạn lao động, bệnh nghề nghiệp là:",
+    "A": "0.3 x TLBHXH + (t – 1) x 0.5 x TLBHXH.",
+    "B": "0.5 x TLBHXH + (t – 1) x 0.3 x TLBHXH.",
+    "C": "0.5 x TLBHXH + (t – 2) x 0.3 x TLBHXH.",
+    "D": "0.05 x TLBHXH + (t – 1) x 0.03 x TLBHXH.",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 68,
+    "Text": "Chị Linh bị tai nạn lao động vào tháng 11/2025 với mức suy giảm khả năng lao động 25%, thời gian đóng BHXH là 10 năm 11 tháng, tiền lương đóng BHXH của tháng 10/2025 là 9,300,000 đồng. Trợ cấp tính riêng theo mức suy giảm khả năng lao động (với Lcs = 2,340,000đ) là:",
+    "A": "11,700,000 đồng",
+    "B": "35,100,000 đồng (5 x Lcs + [25 - 5] x 0.5 x Lcs)",
+    "C": "23,400,000 đồng",
+    "D": "46,800,000 đồng",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 69,
+    "Text": "Mức trợ cấp hằng tháng tính theo mức suy giảm khả năng lao động đối với người bị tai nạn lao động, bệnh nghề nghiệp là:",
+    "A": "0.3 x Lcs + ( m – 31) x 0.05 x Lcs",
+    "B": "0.3 x Lcs + (m – 31) x 0.02 x Lcs",
+    "C": "0.5 x Lcs + (m – 31) x 0.03 x Lcs",
+    "D": "0.05 x Lcs + (m – 31) x 0.03 x Lcs",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 70,
+    "Text": "Chị Ngọc bị tai nạn lao động suy giảm khả năng lao động 10%, sau khi điều trị thương tật, nếu sức khỏe yếu, chị:",
+    "A": "Được xét nghỉ dưỡng sức, phục hồi sức khỏe 5 ngày.",
+    "B": "Không được xét nghỉ dưỡng sức, phục hồi sức khỏe.",
+    "C": "Được xét nghỉ dưỡng sức, phục hồi sức khỏe tối đa 10 ngày.",
+    "D": "Được xét nghỉ dưỡng sức, phục hồi sức khỏe tối đa 7 ngày.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 71,
+    "Text": "Một người lao động đủ điều kiện xét nghỉ dưỡng sức, phục hồi sức khoẻ sau khi bị tai nạn lao động, nhưng không nghỉ việc, trường hợp này:",
+    "A": "Vẫn được hưởng trợ cấp BHXH.",
+    "B": "Không được hưởng trợ cấp BHXH.",
+    "C": "Người sử dụng lao động sẽ trả trợ cấp.",
+    "D": "Được hưởng cả trợ cấp BHXH và tiền lương.",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 72,
+    "Text": "Trường hợp nào sau đây người lao động đủ điều kiện được nghỉ dưỡng sức, phục hồi sức khỏe sau tai nạn lao động, bệnh nghề nghiệp là 7 ngày?",
+    "A": "Bị suy giảm khả năng lao động từ 15% đến 35%.",
+    "B": "Bị suy giảm khả năng lao động từ 30% đến 45%.",
+    "C": "Bị suy giảm khả năng lao động từ 31% đến 50%.",
+    "D": "Bị suy giảm khả năng lao động từ 51% trở lên.",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 73,
+    "Text": "Chị Hải làm việc theo hợp đồng lao động cùng lúc với hai công ty A và B với thời gian tham gia BHXH là: công ty A từ tháng 01/2020 - 10/2025, công ty B từ tháng 06/2023 - 10/2025. Tháng 11/2025, bà bị tai nạn lao động tại công ty B. Thời gian tham gia BHXH không trùng nhau để tính trợ cấp tai nạn lao động sẽ là:",
+    "A": "5 năm 10 tháng.",
+    "B": "5 năm.",
+    "C": "7 năm 5 tháng.",
+    "D": "5.5 năm.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 74,
+    "Text": "Tính đến tháng trước khi bị tai nạn lao động, ông Bình làm việc cùng lúc với hai công ty A và B với thời gian tham gia BHXH tương ứng tại hai công ty là 06 năm và 10 năm. Thời gian tham gia BHXH để tính trợ cấp tai nạn lao động cho ông sẽ là:",
+    "A": "10 năm",
+    "B": "16 năm.",
+    "C": "06 năm.",
+    "D": "Tổng thời gian tham gia ở cả hai công ty, trong đó thời gian trùng nhau chỉ được tính 1 lần.",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 75,
+    "Text": "Anh Cường bị tai nạn lao động, tham gia BHXH được 9 năm 11 tháng. Thời gian đóng BHXH trong công thức tính trợ cấp tai nạn lao động được làm tròn là:",
+    "A": "9 năm.",
+    "B": "10 năm.",
+    "C": "9.5 năm.",
+    "D": "9.6 năm.",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 76,
+    "Text": "Tổng số năm đóng vào Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp đối với người lao động bị tai nạn lao động được xác định để tính trợ cấp BHXH là:",
+    "A": "Thời gian đóng cộng dồn đến tháng trước liền kề tháng người lao động bị tai nạn lao động",
+    "B": "Thời gian đóng cộng dồn đến tháng người lao động bị tai nạn lao động",
+    "C": "Thời gian đóng cộng dồn đến tháng có kết luận của Hội đồng giám định y khoa về mức suy giảm khả năng lao động",
+    "D": "Thời gian đóng cộng dồn đến tháng trước liền kề tháng có kết luận của Hội đồng giám định y khoa về mức suy giảm khả năng lao động",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 77,
+    "Text": "Khi người lao động bị tai nạn lao động, thì người sử dụng lao động sẽ:",
+    "A": "Thanh toán phần chi phí đồng chi trả và những chi phí không nằm trong danh mục do bảo hiểm y tế chi trả đối với người lao động tham gia bảo hiểm y tế.",
+    "B": "Không thanh toán chi phí y tế đối với người lao động không tham gia BHYT",
+    "C": "Yêu cầu cơ quan BHXH chi trả chi phí y tế.",
+    "D": "Không phải thanh toán chi phí y tế.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 78,
+    "Text": "Chị Hòa bị tai nạn lao động (lỗi do chị gây ra) với mức suy giảm khả năng lao động 82%, tiền lương theo hợp đồng lao động của chị là 8,000,000 đồng. Người sử dụng lao động phải trợ cấp cho chị Hòa số tiền thấp nhất là:",
+    "A": "60,000,000 đồng.",
+    "B": "96,000,000 đồng. (0.4 x 30 x 8,000,000)",
+    "C": "120,100,000 đồng.",
+    "D": "400,000,000 đồng.",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 79,
+    "Text": "Chi phí giám định mức thương tật do tai nạn lao động với mức suy giảm khả năng lao động nhỏ hơn 5% sẽ do?",
+    "A": "Người lao động trả.",
+    "B": "Người sử dụng lao động trả.",
+    "C": "Người lao động và người sử dụng lao động cùng trả.",
+    "D": "Cơ quan BHXH trả.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 80,
+    "Text": "Bà Hải có tham gia BHXH, bị chết do tai nạn lao động. Thân nhân của bà sẽ được hưởng:",
+    "A": "Trợ cấp tai nạn lao động hàng tháng.",
+    "B": "Trợ cấp tai nạn lao động một lần là 36 tháng lương đóng BHXH.",
+    "C": "Trợ cấp tai nạn lao động một lần là 10 tháng lương cơ sở.",
+    "D": "Trợ cấp một lần bằng 36 tháng lương cơ sở và được hưởng chế độ tử tuất theo quy định.",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 81,
+    "Text": "Chị Mai bị tai nạn lao động vào tháng 12/2024, bị suy giảm khả năng lao động 20%, có thời gian đóng BHXH là 18 năm 4 tháng. Tháng 11/2025 do thương tật tái phát, chị đi giám định lại và mức suy giảm khả năng lao động là 30%. Mức trợ cấp một lần của chị được tính:",
+    "A": "Bằng mức trợ cấp tính theo mức suy giảm khả năng lao động lần đầu.",
+    "B": "Khoản trợ cấp này không thay đổi do thời gian đóng BHXH không thay đổi.",
+    "C": "Bằng mức trợ cấp tính theo mức suy giảm khả năng lao động lần giám định lại.",
+    "D": "Bằng hiệu số giữa mức trợ cấp tính theo mức suy giảm khả năng lao động mới với mức trợ cấp tính theo mức suy giảm khả năng lao động trước đó.",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 82,
+    "Text": "Anh Thọ bị tai nạn lao động vào tháng 11/2024, bị suy giảm khả năng lao động 30%, có thời gian đóng BHXH là 15 năm 4 tháng. Tháng 10/2025, anh Thọ lại bị tai nạn lao động lần 2 với mức suy giảm khả năng lao động là 50%. Trợ cấp anh Thọ được nhận lần này là:",
+    "A": "Trợ cấp hằng tháng tính theo trên mức suy giảm 80%.",
+    "B": "Trợ cấp hằng tháng bằng hiệu số của trợ cấp tính theo mức suy giảm 50% và trợ cấp lần 1 tính",
+    "C": "Trợ cấp hằng tháng tính theo trên mức suy giảm 50%.",
+    "D": "Trợ cấp hằng tháng bằng trợ cấp tính theo mức suy giảm 50% và trợ cấp tính theo thời gian đóng BHXH như đã tính ở lần 1.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 83,
+    "Text": "Ông Hải bị tai nạn lao động (không phải lỗi do ông gây ra) với mức suy giảm khả năng lao động 9%, tiền lương theo hợp đồng lao động của ông là 12,000,000 đồng. Người sử dụng lao động phải bồi thường cho ông Hải số tiền thấp nhất là:",
+    "A": "7,200,000 đồng.",
+    "B": "9,000,000 đồng.",
+    "C": "10,000,000 đồng.",
+    "D": "18,000,000 đồng. (1.5 x 12,000,000)",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 84,
+    "Text": "Mức trợ cấp người sử dụng lao động trả đối với người lao động bị tai nạn lao động suy giảm khả năng lao động 82% mà hoàn toàn do lỗi của người lao động bị nạn gây ra:",
+    "A": "Ít nhất bằng 20 tháng tiền lương.",
+    "B": "Ít nhất bằng 12 tháng tiền lương.",
+    "C": "Ít nhất bằng 36 tháng tiền lương.",
+    "D": "Ít nhất bằng 15 tháng tiền lương.",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 85,
+    "Text": "Anh Bình làm việc và đóng bảo hiểm vào Qũy bảo hiểm tai nạn lao động, bệnh nghề nghiệp cùng lúc với hai công ty A và B. Tiền lương đóng bảo hiểm tai nạn lao động, bệnh nghề nghiệp của ông tại công ty A là 17,000,000 đồng, công ty B là 15,000,000 đồng. Tháng 11/2025, ông bị tai nạn lao động tại công ty A. Tiền lương để tính trợ cấp tai nạn lao động cho ông là:",
+    "A": "29,800,000 đồng.",
+    "B": "15,000,000 đồng.",
+    "C": "17,000,000 đồng.",
+    "D": "32,000,000 đồng. (17,000,000 + 15,000,000)",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 86,
+    "Text": "Trong thời gian nằm viện điều trị thương tật do tai nạn lao động, chị Nga không thể đi làm. Vậy công ty có đóng BHXH cho chị Nga trong thời gian này không?",
+    "A": "Không đóng BHXH.",
+    "B": "Chỉ chị Nga đóng BHXH còn công ty không phải đóng cho ông.",
+    "C": "Tùy loại tai nạn lao động mà chị Nga có thể đóng hoặc không đóng BHXH.",
+    "D": "Được đóng BHXH đầy đủ.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 87,
+    "Text": "Đối tượng nào sau đây được hưởng trợ cấp phục vụ khi bị tai nạn lao động, bệnh nghề nghiệp:",
+    "A": "Bị suy giảm khả năng lao động 61% mà bị cụt 2 chi.",
+    "B": "Bị suy giảm khả năng lao động 70% mà bị liệt 1 chi.",
+    "C": "Không có đối tượng nào được hưởng.",
+    "D": "Bị suy giảm khả năng lao động 81% mà bị cụt 2 chi.",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Id": 88,
+    "Text": "Người lao động được cử đi học tập có hưởng tiền lương thì trong thời gian đi học tập người sử dụng lao động:",
+    "A": "Vẫn phải đóng bảo hiểm vào Qũy bảo hiểm tai nạn lao động, bệnh nghề nghiệp.",
+    "B": "Không phải đóng bảo hiểm vào Qũy bảo hiểm tai nạn lao động, bệnh nghề nghiệp.",
+    "C": "Chỉ đóng BHYT không phải đóng bảo hiểm vào Qũy bảo hiểm tai nạn lao động, bệnh nghề nghiệp.",
+    "D": "Không đáp án nào đúng.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 89,
+    "Text": "Mức đóng vào Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp đối người sử dụng lao động là:",
+    "A": "0.5% quỹ tiền lương làm căn cứ đóng BHXH đối với người lao động là cán bộ, công chức, viên chức, người thuộc lực lượng vữ trang.",
+    "B": "1% quỹ tiền lương làm căn cứ đóng BHXH đối với người lao động là cán bộ, công chức, viên chức, người thuộc lực lượng vữ trang.",
+    "C": "0.3% quỹ tiền lương làm căn cứ đóng BHXH đối với người lao động là cán bộ, công chức, viên chức, người thuộc lực lượng vữ trang.",
+    "D": "0.2% quỹ tiền lương làm căn cứ đóng BHXH đối với người lao động là cán bộ, công chức, viên chức, người thuộc lực lượng vữ trang.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 90,
+    "Text": "Mức đóng vào Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp đối với doanh nghiệp hoạt động trong các ngành nghề có nguy cơ cao về TNLĐ-BNN, bảo đảm các điều kiện theo Nghị định số 58/2020/NĐ-CP là:",
+    "A": "0.3% quỹ tiền lương làm căn cứ đóng BHXH.",
+    "B": "0.5% quỹ tiền lương làm căn cứ đóng BHXH.",
+    "C": "1% quỹ tiền lương làm căn cứ đóng BHXH.",
+    "D": "0.2% quỹ tiền lương làm căn cứ đóng BHXH.",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Id": 91,
+    "Text": "Người đang hưởng trợ cấp tai nạn lao động, bệnh nghề nghiệp hằng tháng khi ra nước ngoài để định cư mà có yêu cầu thì được giải quyết hưởng trợ cấp một lần bằng:",
+    "A": "06 tháng mức trợ cấp đang hưởng.",
+    "B": "03 tháng mức trợ cấp đang hưởng.",
+    "C": "10 tháng mức trợ cấp đang hưởng.",
+    "D": "03 tháng lương cơ sở",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Id": 92,
+    "Text": "Chị Loan, đang tham gia BHXH bắt buộc. Trong thời gian nằm viện điều trị thương tật do tai nạn lao động, chị Loan sẽ:",
+    "A": "Không được trả lương.",
+    "B": "Được hưởng lương và phải đóng BHXH.",
+    "C": "Được hưởng lương và không phải đóng BHXH.",
+    "D": "Không tham gia BHXH.",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Id": 93,
+    "Text": "Người lao động bị tai nạn lao động, bệnh nghề nghiệp được giám định hoặc giám định lại mức suy giảm khả năng lao động khi:",
+    "A": "Sau khi bị tai nạn lao động nhiều lần.",
+    "B": "Sau khi bị nhiều bệnh nghề nghiệp.",
+    "C": "Sau khi bị thương tật, bệnh tật lần đầu đã được điều trị ổn định còn di chứng ảnh hưởng tới sức khỏe.",
+    "D": "Sau khi đã điều trị ổn định do vừa bị tai nạn lao động vừa bị bệnh nghề nghiệp",
+    "CorrectAnswer": "C"
+  }
+]

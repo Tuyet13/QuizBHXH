@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8" />
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0" />
+
+    <title>@ViewData["Title"] - QUIZ BHXH 🌈</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet"
+          href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <!-- CSS chính -->
+    <link rel="stylesheet"
+          href="~/css/site.css"
+          asp-append-version="true" />
+
+    <!-- Font ngựa -->
+    <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap"
+          rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- NAVBAR -->
+    <header>
+
+        <nav class="crazy-navbar">
+
+            <div class="logo">
+                🌈 QUIZ BHXH 🔥
+            </div>
+
+            <div class="menu">
+
+                <a asp-controller="Quiz"
+                   asp-action="Index">
+                    🏠 Home
+                </a>
+
+                <a asp-controller="Home"
+                   asp-action="Privacy">
+                    🤡 Privacy
+                </a>
+
+            </div>
+
+        </nav>
+
+    </header>
+
+    <!-- MAIN -->
+    <div class="main-container">
+
+        <main role="main">
+
+            @RenderBody()
+
+        </main>
+
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="crazy-footer">
+
+        💀 Web được tạo bởi chúa tể cầu vồng 🌈
+
+    </footer>
+
+    <!-- JS -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="~/js/site.js"
+            asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

@@ -1,0 +1,49 @@
+﻿@model QuizBHXH.Models.Question
+
+<div class="quiz-box">
+
+    <h1>
+        Câu @ViewBag.Current / @ViewBag.Total
+    </h1>
+
+    <h2>@Model.Text</h2>
+
+    <form asp-action="CheckAnswer" method="post">
+
+        <input type="hidden"
+               name="questionId"
+               value="@Model.Id" />
+
+        <button type="submit"
+                name="answer"
+                value="A">
+            A. @Model.A
+        </button>
+
+        <br /><br />
+
+        <button type="submit"
+                name="answer"
+                value="B">
+            B. @Model.B
+        </button>
+
+        <br /><br />
+
+        <button type="submit"
+                name="answer"
+                value="C">
+            C. @Model.C
+        </button>
+
+        <br /><br />
+
+        <button type="submit"
+                name="answer"
+                value="D">
+            D. @Model.D
+        </button>
+
+    </form>
+
+</div>

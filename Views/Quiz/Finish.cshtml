@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Hoàn Thành";
+}
+
+<div class="quiz-box">
+
+    <h1>Hoàn thành Quiz </h1>
+
+    <h2>
+        Điểm của bạn:
+        @ViewBag.Score
+    </h2>
+    <h3>Lấy chông được rồi </h3>
+
+    <br />
+
+    <a asp-action="Index"
+       asp-route-id="1">
+
+        <button>
+            Làm lại
+        </button>
+
+    </a>
+
+</div>

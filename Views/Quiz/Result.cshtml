@@ -1,0 +1,26 @@
+﻿<div class="quiz-box">
+
+    <h1>
+        @ViewBag.Message
+    </h1>
+
+    <!-- HIỆN ĐÁP ÁN -->
+    @if (TempData["CorrectAnswer"] != null)
+    {
+        <h2 style="color:red;">
+            @TempData["CorrectAnswer"]
+        </h2>
+    }
+
+    <br />
+
+    <a asp-action="Index"
+       asp-route-id="@ViewBag.NextId">
+
+        <button>
+            Câu tiếp theo 🚀
+        </button>
+
+    </a>
+
+</div>
